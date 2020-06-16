@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+h1,
+p {
+  background-color: #dde0e3; /* Light gray */
+}
+
+em,
+strong {
+  background-color: #b2d6ff; /* Light blue */
+  margin: 30px;
+}
+
+h1 {
+  padding: 50px;
+  border: 1px solid burlywood;
+}
+
+p {
+  padding: 20px 0px 20px 10px;
+}
+
+div {
+  color: #fff;
+  background-color: #4a90e2;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+
+  width: 200px;
+  box-sizing: border-box;
+  margin: 20px auto; /* Vertical  Horizontal */
+}
